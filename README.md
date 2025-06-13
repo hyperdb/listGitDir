@@ -30,3 +30,7 @@ for /f "tokens=*" %%x in ('listGitDir "D:\My Projects\Void" ^| peco') do (
   break
 )
 ```
+
+## ライセンス
+
+本プロジェクトのソースコードは「MIT」でライセンスされています。ソースコード以外の文章などについては「CC BY 4.0」でライセンスされています。ライセンスの詳細については「LICENSE」ファイルを参照してください。
